@@ -8,11 +8,11 @@
 </head>
 <body>
     <?php
-         include_once DIR .'/routes/routes.php';
+         include_once __DIR__.'/routes/route.php';
     ?>
 
     <main>
-       <!-- <?php include_once DIR .'/pages/$page.php' ?> -->
+       <!-- <?php include_once __DIR__ .'/pages/$page.php' ?> -->
     </main>
 
     <footer>
